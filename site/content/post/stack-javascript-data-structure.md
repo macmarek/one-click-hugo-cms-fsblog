@@ -43,7 +43,8 @@ JavaScript does not have built-in implemantation of Stack (unlike many other pro
 There are multiple ways to implements a stack. The most basic implemantation is bases on array.
 
 ### Array-based implementation
-```
+```javascript {linenos=table}
+
 class Stack {
     items = [];
     push(item) {
