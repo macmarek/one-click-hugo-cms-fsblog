@@ -3,6 +3,11 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
 
+highlightjsVersion = "9.12.0"
+highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+highlightjsLang = ["javascript"]
+highlightjsTheme = "github"
+
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
